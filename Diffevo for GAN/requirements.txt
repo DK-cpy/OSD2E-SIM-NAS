@@ -1,0 +1,13 @@
+imageio==2.9.0
+Pillow==8.2.0
+tqdm==4.61.1
+graphviz==0.17
+pytorch-gan-metrics==0.5.1
+tensorflow-gpu==2.2.0
+python-dateutil
+scipy
+tensorboardX==2.5.1
+h5py
+absl-py
+lmdb
+pandas
