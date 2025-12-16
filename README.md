@@ -16,4 +16,7 @@
 3. **The `diffevo` folder** (core diffusion evolutionary algorithm implementation)  
    - Contains the foundational implementation of the diffusion evolutionary algorithm, including files such as:  
      - `generator.py`: generator-related code  
-     - `optimizer.py`: optimizer-related code
+     - `optimizer.py`: optimizer-related code  
+
+4. **requirements.txt file (for image classification task)**  
+   - Provides the minimum version requirements of the libraries needed to reproduce the image classification task
