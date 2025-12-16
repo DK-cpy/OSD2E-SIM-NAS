@@ -1,5 +1,5 @@
 # OSD2E-SIM-NAS
-**Instruction**
+**Instructions**
 1. **The `Diffevo for GAN` folder** (for GAN architecture search tasks)  
    - `diffevo-search_gen_arch.py`: code for the search phase  
    - `diffevo-fully_train_arch.py`: code for the retraining phase  
